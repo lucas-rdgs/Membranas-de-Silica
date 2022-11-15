@@ -1,4 +1,4 @@
-# Membradas de Sílica
+# Membranas de Sílica
 <p align="justify">Este repositório contém uma análise exploratória de dados de membranas de sílica utilizadas em processos de separação de gás carbônico por meio de permeação gasosa.</p>
 <p align="justify">O projeto conta com uma introdução descrevendo o processo de separação gasosa por membranas e vantagens da utilização de membranas de sílica para este processo.</p>
 
