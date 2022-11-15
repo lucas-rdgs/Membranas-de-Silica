@@ -64,3 +64,33 @@ P<sub>N<sub>2</sub></sub> é a permeabilidade de N<sub>2</sub>.
 <p align="justify">Um artifício para avaliar a performance de um modelo de regressão linear é o <strong>coeficiente de determinação</strong>, representado como R². Este parâmetro representa a proporção da variabilidade na variável dependente explicada pelas variáveis independentes, dando a ideia de quão bem pode-se prever a variável dependente a partir das variáveis independentes.</p>
 
 <p align="justify">O resultado de R² = 0,9111 significa que o modelo de regressão linear múltipla explica cerca de <strong>91,11%</strong> da variância da permeabilidade de H<sub>2</sub> a partir das permeabilidades de CO<sub>2</sub> e N<sub>2</sub>.</p>
+
+## Tecnologias
+### Ambiente de desenvolvimento
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="height: 50px" align="left"/>](https://jupyter.org/)<br/><br/>
+
+
+### Desenvolvimento do código
+[<img src="https://freepikpsd.com/file/2019/10/Python-PNG-File.png" style="height: 50px" align="left"/>](https://www.python.org/)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" style="height: 50px" align="left"/>](https://pandas.pydata.org/)<br/><br/>
+
+
+### Análise e limpeza de dados
+Biblioteca [missingno 0.4.2](https://pypi.org/project/missingno/0.4.2/)<br/>
+
+
+### Gráficos
+[<img src="https://matplotlib.org/stable/_static/images/logo2.svg" style="height: 50px" align="left"/>](https://matplotlib.org)
+
+[<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="height: 50px" align="left"/>](https://seaborn.pydata.org/)<br/><br/>
+
+
+### Modelo de regressão linear múltipla
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" style="height: 50px" align="left"/>](https://scikit-learn.org/stable/)<br/><br/><br/>
+
+
+
+## Sobre o autor
+Olá! Meu nome é Lucas Rodrigues.<br/>
+Conecte-se comigo no meu [Linkedin](https://www.linkedin.com/in/lucasrodrigues3/).
