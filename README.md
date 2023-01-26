@@ -71,7 +71,7 @@ P<sub>N<sub>2</sub></sub> é a permeabilidade de N<sub>2</sub>.
 
 
 ### Desenvolvimento do código
-[<img src="https://freepikpsd.com/file/2019/10/Python-PNG-File.png" style="height: 50px" align="left"/>](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" style="height: 50px" align="left"/>](https://www.python.org/)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" style="height: 50px" align="left"/>](https://pandas.pydata.org/)<br/><br/>
 
